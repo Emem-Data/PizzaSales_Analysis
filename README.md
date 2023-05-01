@@ -7,4 +7,3 @@ Data Analysis: Analyze the company data to identify customers needs, behaviour p
 Tool: Excel pivot tables and charts. 
 
 Source of data: Kaggle https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
-![image](https://user-images.githubusercontent.com/103915142/235419561-ef96ddf6-2d5c-4b8c-930a-bc3e558bedb8.png)
